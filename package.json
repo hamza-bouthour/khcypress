@@ -1,0 +1,20 @@
+{
+  "name": "kh",
+  "version": "1.0.0",
+  "description": "ig test template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "e2e:chrome:headed": "cypress run --browser chrome --headed --spec",
+    "e2e:chrome": "cypress run --browser chrome --spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.1.0",
+    "cypress": "^13.2.0",
+    "faker": "^6.6.6"
+  }
+}

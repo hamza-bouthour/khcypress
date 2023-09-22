@@ -1,0 +1,59 @@
+{
+  "user": {
+    "email": {
+      "id": "emailOrPhone",
+      "value": "Ray_Ortiz57@gmail.com"
+    },
+    "fullName": {
+      "id": "fullName",
+      "value": "Ms. Lillian Cole"
+    },
+    "userName": {
+      "id": "username",
+      "value": "demulceo"
+    },
+    "password": {
+      "id": "password",
+      "value": "gh0sF3eqNSVA"
+    },
+    "isSuccessful": false
+  },
+  "user_2": {
+    "email": {
+      "id": "emailOrPhone",
+      "value": "Valentina84@hotmail.com"
+    },
+    "fullName": {
+      "id": "fullName",
+      "value": "Mr. Christian Witting"
+    },
+    "userName": {
+      "id": "username",
+      "value": "bos"
+    },
+    "password": {
+      "id": "password",
+      "value": "MsS7I7klVIct"
+    },
+    "isSuccessful": false
+  },
+  "user_3": {
+    "email": {
+      "id": "emailOrPhone",
+      "value": "Wendy_Brakus19@gmail.com"
+    },
+    "fullName": {
+      "id": "fullName",
+      "value": "Eunice Zboncak"
+    },
+    "userName": {
+      "id": "username",
+      "value": "patruus"
+    },
+    "password": {
+      "id": "password",
+      "value": "OyJHsKM1hktq"
+    },
+    "isSuccessful": false
+  }
+}
